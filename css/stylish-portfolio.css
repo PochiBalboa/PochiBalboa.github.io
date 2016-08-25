@@ -20,21 +20,23 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-}
+    color: #FF4000;
+  }
 
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
     font-size: 4.5em;
     font-weight: 700;
+    color: #FF4000;
 }
 
 /* Custom Button Styles */
 
 .btn-dark {
     border-radius: 0;
-    color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    color: #FF4000;
+    background-color: #FFFF00;
 }
 
 .btn-dark:hover,
